@@ -1,3 +1,3 @@
 An electric field visualizer.
 
-!(./screenshot.png)
+![](https://github.com/haynesgt/electric-field-simulation/blob/master/screenshot.png)
